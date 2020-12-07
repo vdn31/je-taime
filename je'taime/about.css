@@ -1,0 +1,182 @@
+.mediaViewInfo {
+	--web-view-name: Web 1366 – 2;
+	--web-view-id: Web_1366__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1366__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1366__2 {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1366 – 2;
+	--web-view-id: Web_1366__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+	opacity: 0.902;
+	fill: rgba(237,28,36,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 84px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_1_copy {
+	opacity: 0.2;
+	fill: rgba(237,28,36,1);
+}
+.Rectangle_1_copy {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 118px;
+	left: 0px;
+	top: -7px;
+}
+#Daftar {
+	left: 17.841px;
+	top: 20.682px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30.149789810180664px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Kelompok_3_RPL_TEK_SV_IPB_5_20 {
+	left: 1217.747px;
+	top: 721.607px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	line-height: 16.66666603088379px;
+	margin-top: -3.459117889404297px;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9.748430252075195px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Beranda {
+	left: 965.858px;
+	top: 18.575px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.20756912231445px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Tentang {
+	left: 1168.858px;
+	top: 18.575px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.20756912231445px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Masuk {
+	left: 184.21px;
+	top: 21.25px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29.77618980407715px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Live_as_if_you_were_to_die_tom {
+	left: 27.746px;
+	top: 185.688px;
+	position: absolute;
+	overflow: visible;
+	width: 1317px;
+	white-space: nowrap;
+	line-height: 66.66666412353516px;
+	margin-top: -4.166667938232422px;
+	text-align: center;
+	font-family: Montserrat-BoldItalic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 58.33332824707031px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Kami_membuat_anda_senyaman_mun {
+	left: 146.667px;
+	top: 460.889px;
+	position: absolute;
+	overflow: visible;
+	width: 1079px;
+	white-space: nowrap;
+	line-height: 58.33333206176758px;
+	margin-top: -12.500001907348633px;
+	text-align: center;
+	font-family: Montserrat-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.33332824707031px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Shape_1 {
+	fill: rgba(0,0,0,0.2);
+}
+.Shape_1 {
+	overflow: visible;
+	position: absolute;
+	width: 33.918px;
+	height: 28.732px;
+	left: 1182.374px;
+	top: 716.257px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Layer_1 {
+	opacity: 0.502;
+	position: absolute;
+	width: 200px;
+	height: 268px;
+	left: 16px;
+	top: 381px;
+	overflow: visible;
+}

@@ -1,0 +1,248 @@
+.mediaViewInfo {
+	--web-view-name: Web 1366 – 4;
+	--web-view-id: Web_1366__4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1366__4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1366__4 {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1366 – 4;
+	--web-view-id: Web_1366__4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+	opacity: 0.902;
+	fill: rgba(237,28,36,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 84px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_1_copy {
+	opacity: 0.2;
+	fill: rgba(237,28,36,1);
+}
+.Rectangle_1_copy {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 118px;
+	left: 0px;
+	top: -7px;
+}
+#Rectangle_1_p {
+	fill: rgba(198,198,198,0.502);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_p {
+	position: absolute;
+	overflow: visible;
+	width: 554px;
+	height: 581px;
+	left: 746px;
+	top: 144px;
+}
+#Masuk {
+	left: 888px;
+	top: 184px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 82px;
+	color: rgba(0,0,0,1);
+}
+#Component_8__1 {
+	position: absolute;
+	width: 484px;
+	height: 74px;
+	left: 783px;
+	top: 339px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 484px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#your_email {
+	opacity: 0.4;
+	left: 174px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Component_9__1 {
+	position: absolute;
+	width: 484px;
+	height: 74px;
+	left: 783px;
+	top: 446px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 484px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#your_password {
+	opacity: 0.4;
+	left: 146px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Component_10__1 {
+	position: absolute;
+	width: 364px;
+	height: 60px;
+	left: 838px;
+	top: 553px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(252,209,211,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 364px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#masuk {
+	left: 138px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Component_11__1 {
+	position: absolute;
+	width: 364px;
+	height: 60px;
+	left: 838px;
+	top: 631px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	fill: rgba(252,209,211,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 364px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#belum_punya_akun_ {
+	left: 50px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#logo_tipografi {
+	opacity: 0.302;
+	position: absolute;
+	width: 550px;
+	height: 498px;
+	left: 76px;
+	top: 186px;
+	overflow: visible;
+}

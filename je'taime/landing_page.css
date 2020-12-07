@@ -1,0 +1,167 @@
+.mediaViewInfo {
+	--web-view-name: Canvas;
+	--web-view-id: Canvas;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Canvas;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Canvas {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(0,0,0,0);
+	overflow: hidden;
+	--web-view-name: Canvas;
+	--web-view-id: Canvas;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Background {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	opacity: 0.902;
+	fill: rgba(237,28,36,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 84px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_1_copy {
+	opacity: 0.2;
+	fill: rgba(237,28,36,1);
+}
+.Rectangle_1_copy {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 118px;
+	left: 0px;
+	top: -7px;
+}
+#Daftar {
+	left: 17.841px;
+	top: 20.682px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30.149789810180664px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Beranda {
+	left: 965.858px;
+	top: 18.575px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.20756912231445px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Tentang {
+	left: 1168.858px;
+	top: 18.575px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.20756912231445px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Masuk {
+	left: 184.21px;
+	top: 21.25px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29.77618980407715px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#logo_tipografi {
+	opacity: 0.302;
+	position: absolute;
+	width: 550px;
+	height: 498px;
+	left: 18px;
+	top: 185px;
+	overflow: visible;
+}
+#Layer_1 {
+	position: absolute;
+	width: 260px;
+	height: 242px;
+	left: 839px;
+	top: 510px;
+	overflow: visible;
+}
+#Kami_membuat_imitasi_Duolingo_ {
+	left: 657px;
+	top: 139.688px;
+	position: absolute;
+	overflow: visible;
+	width: 666px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41.66667175292969px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Mungkin_anda_lebih_suka_belaja {
+	left: 657px;
+	top: 352.889px;
+	position: absolute;
+	overflow: visible;
+	width: 588px;
+	white-space: nowrap;
+	line-height: 34.88550567626953px;
+	margin-top: -0.0000019073486328125px;
+	text-align: left;
+	font-family: Montserrat-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34.885501861572266px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}

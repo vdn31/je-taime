@@ -1,0 +1,219 @@
+.mediaViewInfo {
+	--web-view-name: Web 1366 – 7;
+	--web-view-id: Web_1366__7;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1366__7;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1366__7 {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1366 – 7;
+	--web-view-id: Web_1366__7;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+	opacity: 0.902;
+	fill: rgba(237,28,36,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 84px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_1_copy {
+	opacity: 0.2;
+	fill: rgba(237,28,36,1);
+}
+.Rectangle_1_copy {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 118px;
+	left: 0px;
+	top: -7px;
+}
+#Halo {
+	left: 28.841px;
+	top: 20.682px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30.149789810180664px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Beranda {
+	left: 777.858px;
+	top: 18.575px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.20756912231445px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Tentang {
+	left: 980.858px;
+	top: 18.575px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.20756912231445px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Latihan {
+	left: 1185.858px;
+	top: 19.575px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.20756912231445px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#keluar {
+	left: 193px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#bagaimana_pendapat_anda_tentan {
+	left: 46px;
+	top: 221px;
+	position: absolute;
+	overflow: visible;
+	width: 1275px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30.149789810180664px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Component_15__1 {
+	position: absolute;
+	width: 652px;
+	height: 226px;
+	left: 357px;
+	top: 384px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 652px;
+	height: 226px;
+	left: 0px;
+	top: 0px;
+}
+#type_your_answer_here {
+	opacity: 0.3;
+	left: 38px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Component_16__1 {
+	position: absolute;
+	width: 364px;
+	height: 60px;
+	left: 501px;
+	top: 660px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(252,209,211,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 364px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#submit {
+	left: 136px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}

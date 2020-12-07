@@ -1,0 +1,301 @@
+.mediaViewInfo {
+	--web-view-name: Web 1366 – 6;
+	--web-view-id: Web_1366__6;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1366__6;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1366__6 {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1366 – 6;
+	--web-view-id: Web_1366__6;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+	opacity: 0.902;
+	fill: rgba(237,28,36,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 84px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_1_copy {
+	opacity: 0.2;
+	fill: rgba(239,45,53,1);
+}
+.Rectangle_1_copy {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 118px;
+	left: 0px;
+	top: -7px;
+}
+#Halo {
+	left: 28.841px;
+	top: 20.682px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30.149789810180664px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Beranda {
+	left: 777.858px;
+	top: 18.575px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.20756912231445px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Tentang {
+	left: 980.858px;
+	top: 18.575px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.20756912231445px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Latihan {
+	left: 1185.858px;
+	top: 19.575px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33.20756912231445px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#keluar {
+	left: 193px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Component_13__1 {
+	position: absolute;
+	width: 285px;
+	height: 271px;
+	left: 844px;
+	top: 335px;
+	overflow: visible;
+}
+#Rectangle_8 {
+	fill: rgba(239,49,56,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	filter: drop-shadow(0px 3px 6px rgba(230, 68, 68, 1));
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 289px;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 142px;
+	height: 121px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,89,75) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Component_12__1 {
+	position: absolute;
+	width: 285px;
+	height: 271px;
+	left: 233px;
+	top: 335px;
+	overflow: visible;
+}
+#Rectangle_9 {
+	fill: rgba(239,49,56,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	filter: drop-shadow(0px 3px 6px rgba(230, 68, 68, 1));
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 289px;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 142px;
+	height: 121px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,89,75) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#coba_dengarkan_beberapa_percak {
+	left: 237px;
+	top: 214px;
+	position: absolute;
+	overflow: visible;
+	width: 893px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30.149789810180664px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Part_I__Is_it_going_to_rain_ {
+	left: 134px;
+	top: 642px;
+	position: absolute;
+	overflow: visible;
+	width: 485px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30.149789810180664px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Part_II__Is_it_going_to_rain_ {
+	left: 739px;
+	top: 642px;
+	position: absolute;
+	overflow: visible;
+	width: 497px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30.149789810180664px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Component_14__1 {
+	position: absolute;
+	width: 140px;
+	height: 134px;
+	left: 613px;
+	top: 411px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(252,209,211,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	height: 134px;
+	left: 0px;
+	top: 0px;
+}
+#OK {
+	left: 24px;
+	top: 38px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 49px;
+	color: rgba(0,0,0,1);
+}
